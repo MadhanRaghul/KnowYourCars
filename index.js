@@ -5,8 +5,8 @@ const sedan = document.getElementById('sedan')
 const muscle = document.getElementById('muscle')
 const electric = document.getElementById('electric')
 const sports = document.getElementById('sports')
-const container = document.getElementsByClassName('container')
-const carsbtn= document.getElementsByClassName('carsbtn')
+/* const container = document.getElementsByClassName('container')
+const carsbtn= document.getElementsByClassName('carsbtn') */
 
 
 const top1 = document.getElementById('top')
