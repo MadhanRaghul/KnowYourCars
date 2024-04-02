@@ -1,3 +1,5 @@
+"use strict"
+
 const cars = document.getElementById('cars')
 const conver = document.getElementById('conver')
 const suv = document.getElementById('suv')
